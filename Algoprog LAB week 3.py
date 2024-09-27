@@ -47,3 +47,8 @@ while choice != 5:
             print('Not valid')
     count=1
 print('Bye!')
+
+
+"""
+you did an amazing job!! no crashes or errors whatsoever, good input validation, and the code works perfectly. nice touch with the list reset :D
+"""
